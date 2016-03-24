@@ -1,0 +1,10 @@
+48 1000
+3
+3 Truck
+8760 12 980 Crashed
+4 12 30 No_fuel
+720 12 0 Wheel_broken
+1 Driver
+5 1 20 Invalid
+1 Fruits
+48 24 10000 Soured
